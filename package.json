@@ -30,7 +30,7 @@
     "dependencies": {
         "chalk": "^1.0.0",
         "urllib": "^2.3.8",
-        "yeoman-generator": "^0.20.1",
+        "yeoman-generator": "^0.24.1",
         "yes-tree": "^1.0.3"
     },
     "devDependencies": {
